@@ -4,3 +4,7 @@ Useful SBT plugins
 * [sbt-export-repo](https://github.com/sbt/sbt-export-repo) exports your dependency graph to a preloaded local repository.
 * [coursier](https://github.com/alexarchambault/coursier) is a library (and sbt plugin) which fetches and caches dependencies from Maven / Ivy repositories.
 
+
+Libraries
+
+* [TrueVFS](https://truevfs.java.net/index.html) is a virtual file system backed by .zip files.
